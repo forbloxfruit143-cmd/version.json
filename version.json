@@ -1,5 +1,5 @@
 {
-  "version": 3,
-  "apk": "https://www.google.com",
+  "version": 4,
+  "apk": "https://www.mediafire.com/file/j2zo4vq2xahonva/app-debug.apk/file",
   "releaseNotes": "Fixed the connection bugs and added auto-updater!"
 }

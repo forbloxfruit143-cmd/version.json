@@ -1,4 +1,5 @@
 {
-  "version": 1,
-  "apk": "https://github.com/forbloxfruit143-cmd/udpater-app/commits/v1"
+  "version": 3,
+  "apk": "https://www.google.com",
+  "releaseNotes": "Fixed the connection bugs and added auto-updater!"
 }
